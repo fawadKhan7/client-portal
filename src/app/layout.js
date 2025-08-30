@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 
 export const metadata = {
   title: "Service Central",
-  description: "Service Central",
+  description: "Service Central - Your one-stop portal for service requests, file management, and client communications",
 };
 
 export default function RootLayout({ children }) {
