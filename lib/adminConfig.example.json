@@ -1,0 +1,27 @@
+{
+  "admins": [
+    {
+      "email": "admin@yourcompany.com",
+      "password": "YourSecurePassword123!",
+      "name": "System Administrator",
+      "role": "admin"
+    },
+    {
+      "email": "manager@yourcompany.com", 
+      "password": "AnotherSecurePass456!",
+      "name": "Project Manager",
+      "role": "admin"
+    },
+    {
+      "email": "support@yourcompany.com",
+      "password": "SupportPass789!",
+      "name": "Support Lead",
+      "role": "admin"
+    }
+  ],
+  "settings": {
+    "autoConfirmEmail": true,
+    "skipIfExists": true,
+    "logDetails": true
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "admins": [
+    {
+      "email": "admin@clientportal.com",
+      "password": "AdminPass123!",
+      "name": "System Administrator",
+      "role": "admin"
+    },
+    {
+      "email": "manager@clientportal.com", 
+      "password": "ManagerPass123!",
+      "name": "Project Manager",
+      "role": "admin"
+    }
+  ],
+  "settings": {
+    "autoConfirmEmail": true,
+    "skipIfExists": true,
+    "logDetails": true
+  }
+}
